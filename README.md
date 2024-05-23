@@ -30,13 +30,13 @@ This project is a web server application built using Node.js and Express, design
     npm install
     
 3. Set up your environment variables by creating a .env file in the root directory with the following content:
-    '''env
+   ~~~env
     PORT=3000
     AWS_ACCESS_KEY_ID=your_aws_access_key_id
     AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
     TWILIO_ACCOUNT_SID=your_twilio_account_sid
     TWILIO_AUTH_TOKEN=your_twilio_auth_token
-   ''''
+~~~
     
 
 ### Executing Program
