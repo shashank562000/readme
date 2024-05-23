@@ -36,7 +36,6 @@ This project is a web server application built using Node.js and Express, design
     AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
     TWILIO_ACCOUNT_SID=your_twilio_account_sid
     TWILIO_AUTH_TOKEN=your_twilio_auth_token
-~~~
     
 
 ### Executing Program
